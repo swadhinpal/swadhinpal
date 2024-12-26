@@ -38,7 +38,7 @@ I'm a **passionate web developer** and a **lifelong learner**, always striving t
 ---
 
 ## 🌐 Connect With Me
-- 🏢 [LinkedIn](https://www.linkedin.com/in/swadhin-pal-20b3912b7/)
+- 🏢 [LinkedIn](https://www.linkedin.com/in/swadhinpal/)
 - 🐦 [Facebook](https://www.facebook.com/swadhin.pal.982)
 - 🌍 [Github](https://github.com/swadhinpal)
 - 📧 **Email:** bsse1302@iit.du.ac.bd
