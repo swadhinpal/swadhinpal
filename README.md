@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Hello, I'm Swadhin Pal
+#### Learner
+![Learner](https://drive.google.com/file/d/1DwNebz-8mxhf8csPiiudJYksqtyA0LGd/view?usp=sharing)
 
-<!--
-**swadhinpal/swadhinpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying B.Sc in Software Engineering at Dhaka University. I'm a web developer and research enthusiastic.
 
-Here are some ideas to get you started:
+Skills: NODE JS / REACT / JS / HTML / CSS / LuaScript / Python / PHP / MySQL / Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
