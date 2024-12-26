@@ -9,7 +9,7 @@ I'm a **passionate web developer** and a **lifelong learner**, always striving t
 - 🌱 **Learning:** Currently exploring advanced JavaScript frameworks, Docker, and CI/CD pipelines.
 - 🚀 **Projects:** Working on a **Wumpus World simulator** to implement logical reasoning and UI functionality.
 - 📚 **Goals:** Sharpen my backend development skills and dive deeper into **AI integration with web apps**.
-- 💬 **Ask Me About:** Frontend technologies, debugging tricky issues, and anything related to React and Node.js.
+- 💬 **Ask Me About:** Static Analysis, Web accessibility, Graph, Automata, logical inference, statistics, web development**.
 
 ---
 
@@ -26,7 +26,7 @@ I'm a **passionate web developer** and a **lifelong learner**, always striving t
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swadhinpal&layout=compact&theme=radical)
 
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=swadhinpal&theme=redical)
+<!-- ![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=swadhinpal&theme=redical) -->
 
 ---
 
