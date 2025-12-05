@@ -1,6 +1,6 @@
-# 💻 Welcome to My GitHub Profile! 👋
+# 💻 Welcome👋
 
-I'm a **passionate web developer** and a **lifelong learner**, always striving to improve and expand my skills in software development. From designing responsive websites to building full-stack applications, I love turning ideas into reality using clean and efficient code.
+I'm a **passionate web developer** and a **good learner**, always striving to improve and expand my skills in software development. From designing responsive websites to building full-stack applications, I love turning ideas into reality using clean and efficient code.
 
 ---
 
