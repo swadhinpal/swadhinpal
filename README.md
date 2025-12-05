@@ -14,7 +14,7 @@ I'm a **passionate web developer** and a **good learner**, always striving to im
 ---
 
 ## ⚡ My Skills
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript, FastAPI
 - **Backend:** Node.js, Express.js, Python, C++, Java
 - **Database:** MySQL, MongoDB
 - **Tools & Platforms:** Docker, Github, Vite, Redis, VSCode
